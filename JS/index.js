@@ -1,6 +1,5 @@
 
 function ageToDays(age) {
-    let daysInYear = 365
     return age * 365
 }
 
